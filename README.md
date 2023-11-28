@@ -7,4 +7,4 @@
  <li> The flow should be like: </li>
    Homepage-> view all customers->Select and view one customer-> Transfer money->Select customer to transfer to->view all customers
  <li> No login page ,No user creation ,Only transfer of money between multiple users are required </li>
- <li> Post the website in free hosting website :We have used XAMM  and hosted it on localhost</li>
+ <li> Post the website in free hosting website :We have used XAMMP  and hosted it on localhost</li>
